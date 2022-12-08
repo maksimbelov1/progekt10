@@ -5,6 +5,7 @@ import io.github.humbleui.jwm.EventMouseMove;
 
 import java.util.concurrent.ThreadLocalRandom;
 
+
 /**
  * Класс двумерного вектора int
  */
@@ -46,6 +47,7 @@ public class Vector2i {
         this.x = x;
         this.y = y;
     }
+
 
     /**
      * Конструктор вектора от события
