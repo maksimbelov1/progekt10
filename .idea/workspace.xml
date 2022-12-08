@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe0ecc45-9e69-4ea5-800f-d9337d125434" name="Changes" comment="int vector">
-      <change beforePath="$PROJECT_DIR$/src/main/java/misc/Vector2i.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/misc/Vector2i.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe0ecc45-9e69-4ea5-800f-d9337d125434" name="Changes" comment="int cs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,7 @@
       <workItem from="1669281173884" duration="3473000" />
       <workItem from="1669626824939" duration="2108000" />
       <workItem from="1670227804941" duration="1021000" />
-      <workItem from="1670491610819" duration="327000" />
+      <workItem from="1670491610819" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="classes">
       <created>1669284007838</created>
@@ -136,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670491883803</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="int vector">
+      <created>1670491951087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670491951087</updated>
+    </task>
+    <task id="LOCAL-00010" summary="int cs">
+      <created>1670492183048</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670492183048</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +173,7 @@
     <MESSAGE value="window title ready1" />
     <MESSAGE value="drawign rect works" />
     <MESSAGE value="int vector" />
-    <option name="LAST_COMMIT_MESSAGE" value="int vector" />
+    <MESSAGE value="int cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="int cs" />
   </component>
 </project>
